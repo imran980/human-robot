@@ -1,28 +1,34 @@
-# JetBot
+# Human Robot Collaboration Using Natural Language Interface
 
-<!--[<img src="https://img.shields.io/discord/553852754058280961.svg">](https://discord.gg/Ady6NtF) -->
+Jetbot
+Project Description
 
-> Looking for a quick way to get started with JetBot?  Many third party kits are [now available](https://jetbot.org/master/third_party_kits.html)!
+This repository hosts a project that focuses on enabling human-robot collaboration through a natural language interface. The core concept is to create a user-friendly interaction between a robot and a human using voice commands and responses. The project employs a Jetbot, which has been trained to perform various tasks, including basic movements and object recognition based on color. The robot is capable of processing voice commands, understanding them, and responding verbally to carry out the requested actions.
+Features
 
-<img src="../..//wiki/images/jetson-jetbot-illustration_1600x1260.png" height="256">
+    Voice Interaction: Users can communicate with the Jetbot using natural language voice commands.
+    Task Execution: The robot is trained to perform tasks such as movement and object picking based on color.
+    Voice-to-Text Conversion: The Whisper library is used to capture user voice through the microphone and convert it into text.
+    Text-to-Speech Conversion: The GTTS (Google Text-to-Speech) library is utilized to enable the robot to respond to the user's commands by speaking.
+    Microphone and Speaker Integration: The project includes microphone and speaker components to facilitate voice-based interaction.
 
-JetBot is an open-source robot based on NVIDIA Jetson Nano that is
+Technologies Used
 
-* **Affordable** - Less than $150 add-on to Jetson Nano
-* **Educational** - Tutorials from basic motion to AI based collision avoidance
-* **Fun!** - Interactively programmed from your web browser
+    Jetbot: The hardware platform for the robot.
+    ChatGPT API: Used for converting natural language text into robotic language.
+    Whisper Library: Employed to capture user voice from the microphone and convert it into text.
+    GTTS (Google Text-to-Speech) Library: Used for enabling the robot to respond verbally.
+    Microphone and Speaker: Hardware components integrated into the Jetbot for voice interaction.
 
-Building and using JetBot gives the hands on experience needed to create entirely new AI projects.
+Acknowledgments
 
-To get started, read the [JetBot documentation](https://jetbot.org).
+This project was made possible by the contributions of the open-source community and the following libraries:
 
-## Get involved
+    Jetbot
+    Whisper Library
+    GTTS (Google Text-to-Speech) Library
 
-We really appreciate any feedback related to JetBot, and also just enjoy seeing what you're working on!  There is a growing community of Jetson Nano and JetBot users.  It's easy to get involved involved...
+For any questions or inquiries about the project, please feel free to reach out to Imran Muhammad using mi3dr@umsystem.edu
 
-<!--* Join the [chat server](https://discord.gg/Ady6NtF)-->
-* Ask a question and discuss JetBot related topics on the [JetBot GitHub Discussions](https://github.com/NVIDIA-AI-IOT/jetbot/discussions)
-* Report a bug by [creating an issue](https://github.com/NVIDIA-AI-IOT/jetbot/issues)
-* Share your project or ask a question on the [Jetson Developer Forums](https://devtalk.nvidia.com/default/board/139/jetson-embedded-systems/)
 
 
