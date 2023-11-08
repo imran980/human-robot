@@ -22,7 +22,8 @@ Technologies Used
 
 Architecture
 
-![image](https://github.com/mimran980/jetbot/assets/112286488/09b4a2c1-b1ba-433d-9124-d4b89056c75c)
+![image](https://github.com/mimran980/jetbot/assets/112286488/e53569a0-fe21-48b2-b495-8a1a740c2c34)
+
 
 
 Acknowledgments
