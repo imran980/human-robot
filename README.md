@@ -30,6 +30,7 @@ Acknowledgments
 
 This project was made possible by the contributions of the open-source community and the following libraries:
 
+    ChatGPT API
     Jetbot
     Whisper Library
     GTTS (Google Text-to-Speech) Library
