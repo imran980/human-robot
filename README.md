@@ -20,10 +20,18 @@ Technologies Used
     GTTS (Google Text-to-Speech) Library: Used for enabling the robot to respond verbally.
     Microphone and Speaker: Hardware components integrated into the Jetbot for voice interaction.
 
-Architecture
+High Level Architecture Diagram:
+![ros](https://github.com/mimran980/jetbot/assets/112286488/ccce4700-7163-4011-8f56-a881b0b49323)
+
+
+Technical Architecture
 
 ![image](https://github.com/mimran980/jetbot/assets/112286488/e53569a0-fe21-48b2-b495-8a1a740c2c34)
 
+Road Following Demo:
+Here is a short demo of its trained task where it needs to follow a road.
+
+https://github.com/mimran980/jetbot/assets/112286488/e60992ab-a97e-40ef-8cea-7aac16a587b4
 
 
 Acknowledgments
