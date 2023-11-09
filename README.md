@@ -1,9 +1,9 @@
 # Human Robot Collaboration Using Natural Language Interface
 
-Jetbot
 Project Description
 
-This repository hosts a project that focuses on enabling human-robot collaboration through a natural language interface. The core concept is to create a user-friendly interaction between a robot and a human using voice commands and responses. The project employs a Jetbot, which has been trained to perform various tasks, including basic movements and object recognition based on color. The robot is capable of processing voice commands, understanding them, and responding verbally to carry out the requested actions.
+This project aims to facilitate human-robot collaboration through a natural language interface. The fundamental idea is to empower users to guide and instruct the robot in real-time, diverting it from its pre-trained tasks. This allows the robot to perform new tasks and respond accurately to specific directions. The project utilizes a Jetbot that is trained on certain tasks, including basic movements, object avoidance and color-based object recognition. The robot possesses the ability to communicate verbally.
+
 Features
 
     Voice Interaction: Users can communicate with the Jetbot using natural language voice commands.
