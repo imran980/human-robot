@@ -21,7 +21,7 @@ Technologies Used
     Microphone and Speaker: Hardware components integrated into the Jetbot for voice interaction.
 
 High Level Architecture Diagram:
-![ros](https://github.com/mimran980/jetbot/assets/112286488/ccce4700-7163-4011-8f56-a881b0b49323)
+![diag](https://github.com/mimran980/jetbot/assets/112286488/8e6c56f6-c0a9-4b74-9599-72f73d2bcb4e)
 
 
 Technical Architecture
